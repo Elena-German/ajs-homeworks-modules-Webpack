@@ -22,7 +22,7 @@ module.exports = {
         })
     ],
     devServer: {
-             watchFiles: './src',
+             watchFiles: './dist',
              port: 9000,
            },
 
